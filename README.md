@@ -17,6 +17,6 @@ extra fun: compile it into an exe and share it with friends
 extra fun 2: combine this with regfuck to make it even harder to stop
 
 # prerequisites
-1. pywin32 `pip install pywin32 `
+1. pywin32 `pip install pywin32`
 
 2. wmi `pip install wmi`
