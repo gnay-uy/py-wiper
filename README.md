@@ -12,3 +12,5 @@ please don't run this on your host pc
 1. ensure u have admin
 2. cmd.exe, run as admin, (file name).py
 3. good luck repairing it
+
+extra fun: compile it into an exe and share it with friends 
